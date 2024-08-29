@@ -7,7 +7,7 @@
 
 - 👨‍💻 My professional Portfolio here-[Portfolio link!](https://pratikulkarni.github.io/PratikKulkarni.io/)
 
-- ⚡ fact **I Tell Story from Data**
+- ⚡ fact **I Tell Story from Data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
