@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 My professional Portfolio here- 
-- ⚡ fact **Code breaker by day and bug slayer by night!** 
+- ⚡ fact : **Code breaker by day and bug slayer by night!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
