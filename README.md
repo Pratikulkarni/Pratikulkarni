@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 My professional Portfolio here-
--    **AI Enthusiast**
+-  **AI Enthusiast**
 -⚡ fact : **Code breaker by day and bug slayer by night!** 
 
 <h3 align="left">Connect with me:</h3>
